@@ -1,4 +1,4 @@
-Projet 4 : agence web la panthère :
+Projet 4 : agence web La panthère :
 
 
 Il s'agit d'optimiser (SEO) le site web la Panthère en respectant les bonnes pratiques en matière d'accessibilité et de SEO.
